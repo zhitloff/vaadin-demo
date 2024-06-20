@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: vaadin-demo
+
+  datasource:
+    url: jdbc:postgresql://${POSTGRES_HOST:localhost}:${POSTGRES_PORT:5432}/${POSTGRES_DB:vaadin}?stringtype=unspecified&currentSchema=${database.schema}
+    driver-class-name: org.postgresql.Driver
+    username: admin
+    password: admin
+    hikari:
+      schema: ${database.schema}
+      connection-init-sql: CREATE SCHEMA IF NOT EXISTS "${database.schema}";
+    jpa:
+      generate-ddl: false
+      show-sql: true
+      hibernate:
+        ddl-auto: none
+      open-in-view: false
+
+database:
+  schema: vd

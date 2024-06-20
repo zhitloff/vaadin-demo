@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/home/paul/SSD/DEV/IdeaProjects/DemoProjects/vaadin-demo/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/paul/SSD/DEV/IdeaProjects/DemoProjects/vaadin-demo/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/home/paul/SSD/DEV/IdeaProjects/DemoProjects/vaadin-demo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/paul/SSD/DEV/IdeaProjects/DemoProjects/vaadin-demo/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/paul/SSD/DEV/IdeaProjects/DemoProjects/vaadin-demo/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/paul/SSD/DEV/IdeaProjects/DemoProjects/vaadin-demo/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/paul/SSD/DEV/IdeaProjects/DemoProjects/vaadin-demo/target/dev-bundle/config",
+  "jarResourcesFolder": "/home/paul/SSD/DEV/IdeaProjects/DemoProjects/vaadin-demo/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/home/paul/SSD/DEV/IdeaProjects/DemoProjects/vaadin-demo/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

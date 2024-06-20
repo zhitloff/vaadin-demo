@@ -1,0 +1,23 @@
+node_modules
+!**/src/main/**/target/
+!**/src/test/**/target/
+/docker/db/
+target/
+logs/
+src/main/frontend/generated/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
